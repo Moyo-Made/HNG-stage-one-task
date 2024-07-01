@@ -9,13 +9,20 @@ This is a simple single-page website created to outline my goals for the next 2 
 **Responsive Design**: The website is fully responsive and works well on all devices, including desktops, tablets, and mobile phones.
 
 **Visually Appealing Layout**: The site uses a clean and modern design to present information in an easy-to-read format.
+
 **Data Attributes for Testing**: Each required element on the website has a data-testid attribute assigned for easy identification and testing.
+
 **Current Time and Day Display**: The website displays the current time in UTC and the current day of the week.
+
 **Navigation Links**: The site includes links to valuable resources, such as HNG Tech Learn, Keyword Dog, and Scrape Any Web.
-Goals Outlined
+
+**Goals Outlined**
 **Excel as a Software Engineer**: Aim to work as a software engineer in an international company and consistently prove my value to the team.
+
 **Develop a Successful SaaS Product**: Build a SaaS product that attracts and retains over a thousand users.
+
 **Contribute to Open Source**: Make meaningful contributions and have a significant impact on the open source community.
+
 **Create Educational Tech Content**: Develop and share tech content to educate others on various aspects of technology they might not be familiar with.
 
 # Installation
