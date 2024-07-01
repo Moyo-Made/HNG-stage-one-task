@@ -7,6 +7,7 @@ This is a simple single-page website created to outline my goals for the next 2 
 
 # Features
 **Responsive Design**: The website is fully responsive and works well on all devices, including desktops, tablets, and mobile phones.
+
 **Visually Appealing Layout**: The site uses a clean and modern design to present information in an easy-to-read format.
 **Data Attributes for Testing**: Each required element on the website has a data-testid attribute assigned for easy identification and testing.
 **Current Time and Day Display**: The website displays the current time in UTC and the current day of the week.
